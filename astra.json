@@ -6,7 +6,7 @@
   "gitpodUrl": "https://gitpod.io/#https://github.com/DataStax-Examples/springboot3-astrastreaming-db",
   "githubUrl": "https://github.com/DataStax-Examples/springboot3-astrastreaming-db",
   "tags": [{ "name": "java" }, { "name": "java driver" }, { "name": "sppring" }, { "name": "streaming" }],
-  "category": "sample",
+  "category": "apps",
   "priority": 1,
   "heroImage": "https://stackjava.com/wp-content/uploads/2018/05/spring-boot-data-logo.png"
 }
